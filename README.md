@@ -1,3 +1,20 @@
+## Contents
+ 
+- [Hub of Resources](#hub-of-resources)
+- [Data Structures & Algorithms (DSA)](#data-structures--algorithms-dsa)
+- [Problem Sets & Practice](#problem-sets--practice)
+- [Courses & Languages](#courses--languages)
+- [Cyber Security](#cyber-security)
+- [Web Dev](#web-dev)
+- [Computer Systems, OS, & Architecture](#computer-systems-os--architecture)
+- [Books, Documentation & Reference](#books-documentation--reference)
+- [ML, AI, Deep Learning](#ml-ai-deep-learning)
+- [Recommended Repos](#recommended-repos)
+- [Papers, Blogs, Articles & Latest Tech Stuff](#papers-blogs-articles--latest-tech-stuff)
+- [Misc](#misc)
+- [Youtube Channels to Checkout](#youtube-channels-to-checkout)
+
+---
 ### Hub of Resources
 
 - [DigitalOcean Tutorials: The Ocean of Courses](https://www.digitalocean.com/community/tutorials)
