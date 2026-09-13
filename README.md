@@ -194,16 +194,20 @@
 - https://www.youtube.com/@visualkernel
 - https://www.youtube.com/@ArtemKirsanov
 - https://www.youtube.com/@Computerphile
+  
 **AI ML**
 - https://www.youtube.com/@statquest
+  
 **Software Engineering**
 - https://www.youtube.com/@ThePrimeTimeagen
 - https://www.youtube.com/@BenVallack
 - https://www.youtube.com/@sriniously
 - https://www.youtube.com/@diegoarias-tech
 - https://www.youtube.com/@ByteByteGo
+  
 **Security**
 - https://www.youtube.com/@LowLevelTV
+  
 **Mathematics**
 - [3b1b the OG](https://www.youtube.com/@3blue1brown)
 - https://www.youtube.com/@MichaelPennMath
@@ -211,5 +215,6 @@
 - https://www.youtube.com/@profrobbob
 - https://www.youtube.com/@ProfessorLeonard
 - https://www.youtube.com/@DrTrefor
+  
 **Others**
 - https://www.youtube.com/@veritasium
