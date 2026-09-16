@@ -7,6 +7,7 @@
 - [Cyber Security](#cyber-security)
 - [Web Dev](#web-dev)
 - [Computer Systems, OS, & Architecture](#computer-systems-os--architecture)
+- [Dev Tools](#dev-tools)
 - [Books, Documentation & Reference](#books-documentation--reference)
 - [ML, AI, Deep Learning](#ml-ai-deep-learning)
 - [Recommended Repos](#recommended-repos)
@@ -32,7 +33,7 @@
 
 ### Data Structures & Algorithms (DSA)
 
-- [Visual Algo Like](https://csvistool.com/)
+- [Visual Algo Like Tool](https://csvistool.com/)
 - [The Algorithms](https://github.com/TheAlgorithms)
   Data structures and algorithms implemented in many languages.
 - [Big-O Algorithm Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
@@ -85,7 +86,7 @@
 - [Web Security by Portswigger](https://portswigger.net/web-security)
 - [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 
-**Tools:**
+**Cyber-Tools:**
 
 - [dCode - Online Ciphers & Solvers](https://www.dcode.fr/en)
 - [Cryptii - Modular Conversion](https://cryptii.com/)
@@ -125,6 +126,12 @@
   Dialogue Based Learning on Memory in Depth
 - [How Servers Work?](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets)
 - [Bridge Networking From Scratch](https://labs.iximiuz.com/tutorials/container-networking-from-scratch)
+
+---
+### Dev Tools
+- [Git from Bottom-Up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+
 ---
 ### Books, Documentation & Reference
 
@@ -134,9 +141,8 @@
 - [Devhints](https://devhints.io/)
 - [ChaiCode Docs](https://docs.chaicode.com/home-for-programmers/)
 - [adit.io](https://www.adit.io/)
-- [Learn Git Visually](https://learngitbranching.js.org/)
 
-  ---
+---
 ### ML, AI, Deep Learning
 
 - [LLMs From Scratch](https://github.com/rasbt/LLMs-from-scratch)
@@ -163,7 +169,7 @@
 - [Awesome Research](https://github.com/emptymalei/awesome-research)
 - [Free for Dev](https://github.com/ripienaar/free-for-dev)
   Free-tier services for developers.
-- [He Make Good Notes, worth checking](https://github.com/darshanime/notes/blob/master/operating_systems.org)
+- [He Make Good Notes, worth checking out](https://github.com/darshanime/notes/blob/master/operating_systems.org)
 
 **Projects**
 
@@ -205,33 +211,33 @@
 ### Youtube Channels to Checkout
 
 **Computer Science**
-- https://www.youtube.com/@SebastianLague
-- https://www.youtube.com/@benjdicken
-- https://www.youtube.com/@ByteByteGo
-- https://www.youtube.com/@visualkernel
-- https://www.youtube.com/@ArtemKirsanov
-- https://www.youtube.com/@Computerphile
-  
+- [Sebastian Lague](https://www.youtube.com/@SebastianLague)
+- [benjdicken](https://www.youtube.com/@benjdicken)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [visualkernel](https://www.youtube.com/@visualkernel)
+- [Artem Kirsanov](https://www.youtube.com/@ArtemKirsanov)
+- [Computerphile](https://www.youtube.com/@Computerphile)
+
 **AI ML**
-- https://www.youtube.com/@statquest
-  
+- [StatQuest](https://www.youtube.com/@statquest)
+
 **Software Engineering**
-- https://www.youtube.com/@ThePrimeTimeagen
-- https://www.youtube.com/@BenVallack
-- https://www.youtube.com/@sriniously
-- https://www.youtube.com/@diegoarias-tech
-- https://www.youtube.com/@ByteByteGo
-  
+- [ThePrimeTimeagen](https://www.youtube.com/@ThePrimeTimeagen)
+- [Ben Vallack](https://www.youtube.com/@BenVallack)
+- [sriniously](https://www.youtube.com/@sriniously)
+- [diegoarias-tech](https://www.youtube.com/@diegoarias-tech)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+
 **Security**
-- https://www.youtube.com/@LowLevelTV
-  
+- [LowLevelTV](https://www.youtube.com/@LowLevelTV)
+
 **Mathematics**
-- [3b1b the OG](https://www.youtube.com/@3blue1brown)
-- https://www.youtube.com/@MichaelPennMath
-- https://www.youtube.com/@numberphile
-- https://www.youtube.com/@profrobbob
-- https://www.youtube.com/@ProfessorLeonard
-- https://www.youtube.com/@DrTrefor
-  
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Michael Penn](https://www.youtube.com/@MichaelPennMath)
+- [Numberphile](https://www.youtube.com/@numberphile)
+- [ProfRobBob](https://www.youtube.com/@profrobbob)
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
+- [Dr Trefor](https://www.youtube.com/@DrTrefor)
+
 **Others**
-- https://www.youtube.com/@veritasium
+- [Veritasium](https://www.youtube.com/@veritasium)
